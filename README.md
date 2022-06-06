@@ -13,7 +13,10 @@ When the user inputs a word, the program determines whether the word is a valid 
 This program prints a rocketship that is scalable to any size input. During this project, I developed a greater understanding of the behavior of for-loops within for-loops.
 
 ## Symmetric Difference
+This program finds the symmetric difference of two separate integer arrays. The symmetric difference (△ or ⊕) of two sets is the set of elements which are in either of the two sets but not in both. I developed a greater understanding of arrays and loops from this project.
 
+## Wizard Fight
+For the final project in the class, I made a "Harry Potter" themed game using Swing. First the user answers a quiz and then they will be assigned to a house. Depending on the house, the user's stats will be boosted in different ways. Afterwards, the user can fight against npc wizards in a Pokemon styled battle. There is also a shop that sells stat boosting items.
 
 ## Wordle
 I coded a wordle game that allows the user to guess words, keep track of used letters, and see correct letter placement from previous guesses. The program uses 2D arrays, loops, and other logic to create an easy and fun playing experience.
