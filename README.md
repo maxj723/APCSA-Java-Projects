@@ -3,11 +3,12 @@
 
 During APCSA, I completed multiple projects that helped me gain a deeper understanding of of the language.
 
+## [Wizard Fight](www.github.com)
+For the final project in the class, I made a "Harry Potter" themed game using Swing. First the user answers a quiz and then they will be assigned to a house. Depending on the house, the user's stats will be boosted in different ways. Afterwards, the user can fight against npc wizards in a Pokemon styled battle. There is also a shop that sells stat boosting items.
+
+
 ## Snowstorm Lab
 This lab was a basic object exercise to help better understand classes, constructors, and methods for creating objects.
-
-## Wizard Fight
-For the final project in the class, I made a "Harry Potter" themed game using Swing. First the user answers a quiz and then they will be assigned to a house. Depending on the house, the user's stats will be boosted in different ways. Afterwards, the user can fight against npc wizards in a Pokemon styled battle. There is also a shop that sells stat boosting items.
 
 ## Hawaiian Words
 When the user inputs a word, the program determines whether the word is a valid Hawaiian word, and if so, it prints the pronunciation. In this project I utilized a variety of string methods and 2D arrays to translate the words.
