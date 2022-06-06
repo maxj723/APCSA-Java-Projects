@@ -3,7 +3,7 @@
 
 During APCSA, I completed multiple projects that helped me gain a deeper understanding of of the language.
 
-## [Wizard Fight](www.github.com)
+## [Wizard Fight](https://github.com/maxj723/Wizard-Fight/)
 For the final project in the class, I made a "Harry Potter" themed game using Swing. First the user answers a quiz and then they will be assigned to a house. Depending on the house, the user's stats will be boosted in different ways. Afterwards, the user can fight against npc wizards in a Pokemon styled battle. There is also a shop that sells stat boosting items.
 
 
